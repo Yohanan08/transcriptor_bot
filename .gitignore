@@ -1,0 +1,4 @@
+.env
+__pycache__/
+ffmpeg-8.0-full_build/
+*.log
